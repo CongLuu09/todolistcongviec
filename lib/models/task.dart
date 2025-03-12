@@ -5,7 +5,7 @@ class Task {
   String category;
   bool isCompleted;
   DateTime dueDate;
-  String priority; // High, Medium, Low
+  String priority;
 
   Task({
     required this.title,
